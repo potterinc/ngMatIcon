@@ -1,9 +1,9 @@
 # Offline Anglular Material Icon
 
-#STEP 1
+# STEP 1
 Copy the distribution into your project
 
-#STEP 2
+# STEP 2
 import the stylesheets in your angular.json imports array
 
 # Example
