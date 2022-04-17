@@ -17,4 +17,4 @@ import the stylesheets in your angular.json imports array
 # STEP 3
 You should see your icons appear offline after your next auto reload
 
-#HAPPYCODING :)
+`HAPPYCODING :)`
